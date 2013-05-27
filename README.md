@@ -1,4 +1,4 @@
-learn.github.io
+learn.codesnipp.net
 ===============
 
-learn.github.io
+learn.codesnipp.net
